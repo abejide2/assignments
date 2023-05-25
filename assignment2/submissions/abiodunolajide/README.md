@@ -46,29 +46,29 @@ Docker Container: A Docker container is a lightweight virtualized runtime enviro
 
 | Number      | Commands | What does it do and how might you check its effect     |
 | :---        |    :----:   | :---  |
-| 1  | XXXXXXXX       | YYYYYYYY   |
-| 2  | XXXXXXXX       | YYYYYYYY   |
-| 3  | XXXXXXXX       | YYYYYYYY   |
-| 4  | XXXXXXXX       | YYYYYYYY   |
-| 5  | XXXXXXXX       | YYYYYYYY   |
-| 6  | XXXXXXXX       | YYYYYYYY   |
-| 7  | XXXXXXXX       | YYYYYYYY   |
-| 8  | XXXXXXXX       | YYYYYYYY   |
-| 9  | XXXXXXXX       | YYYYYYYY   |
-| 10 | XXXXXXXX       | YYYYYYYY   |
+| 1  | pushd    |This command enables us to see the content of a folder without exit the preceeding folders    |
+| 2  | popd      | This enables us to get back to the folders exit by command pushd without changing directories with cd   |
+| 3  |mkdir       | make directory   |
+| 4  |cat       |check the files in a directory   |
+| 5  | rm -rf       | remove folder   |
+| 6  | ls -la       |lists the content of a folder   |
+| 7  | chown       |change ownership of a folder   |
+| 8  | cd       |change directory   |
+| 9  | cp        |copy file or directory   |
+| 10 | mv      | move or rename file or directory   |
 
 ## Glossary of the week - Enter new technical words you have learnt this week and their meanings.
 
 | Number   | Word | Meaning     |
 | :---     | :----:   |  :---  |
-| 1  | XXXXXXXX       | YYYYYYYY   |
-| 2  | XXXXXXXX       | YYYYYYYY   |
-| 3  | XXXXXXXX       | YYYYYYYY   |
-| 4  | XXXXXXXX       | YYYYYYYY   |
-| 5  | XXXXXXXX       | YYYYYYYY   |
-| 6  | XXXXXXXX       | YYYYYYYY   |
-| 7  | XXXXXXXX       | YYYYYYYY   |
-| 8  | XXXXXXXX       | YYYYYYYY   |
-| 9  | XXXXXXXX       | YYYYYYYY   |
-| 10 | XXXXXXXX       | YYYYYYYY   |
+| 1  | Bourne bash       | shell   |
+| 2  | CLI       | command line interface   |
+| 3  | GUI       |Graphical User Interface   |
+| 4  | init      | Initialize   |
+| 5  | man page       |online help pages of UNIX   |
+| 6  | PATH      | where info is stored to be accessed by other programs and commands   |
+| 7  | SSH       |secure shell   |
+| 8  | libraries      |executables symbols   |
+| 9  | delete      | remove files    |
+| 10 | deploy      | installing a software into an operational environment   |
 
